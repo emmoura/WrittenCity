@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+  <title>WrittenCity</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      background-image: url("blender cenário (file://LAPTOP-R36RDQ7M/Users/elisa/Desktop/Projj/blender cenário/exports/WrittenCity.png)
+)"; 
+      margin: 2px;
+      padding: 20px;
+    }
+    h {
+      backgroung-color: #baae97;
+      color: #1c1912;
+      padding: 20px;
+      text-align: center;
+    }
+    p {
+      color: #1c1912;
+      padding: 20px;
+    }
+  </style>
+
+   <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+</head>
+  
+<body>
+ <input type="checkbox" id="active">
+    <label for="active" class="menu-btn"><span></span></label>
+    <label for="active" class="close"></label>
+    <div class="wrapper">
+      <ul>
+        <li><a href="#">Home Page</a></li>
+        <li><a href="#">Write Your Building</a></li>
+        <li><a href="#">About the project</a></li>
+      </ul>
+    </div>
+  <main>
+   
+  </main>
+  <footer>
+    <p>
+      Thank you! For more information about the project, click <a href="https://emmoura.github.io/AboutWrittenBuildings/AboutCode.html">here</a>.
+    </p>
+  </footer>
+</body>
+ 
+ 
+
+</html>
+
+<head>
+
+  </head>
+
+  <body>
+   
+</body>
